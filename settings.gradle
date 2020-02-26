@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Proj4X_Android_B_ProgrAndroid_1'
